@@ -10,7 +10,7 @@ public class HollowRectangle {
                 {
                     System.out.print("*");
                 }
-                else{
+                else{ //this is for printing space 
                     System.out.print(" ");
 
                 }
