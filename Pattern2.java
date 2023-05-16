@@ -1,5 +1,9 @@
 public class Pattern2 {
-    /*  */
+    /* 11111
+22222
+33333
+44444
+55555 */
     public static void main(String[] args) {
         for (int i = 1 ; i <= 5 ; i++)
         {
